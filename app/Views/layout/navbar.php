@@ -9,7 +9,6 @@
             echo "</li>";
                        
         }?>
- 
     </ul>
   </div>
 </nav>
