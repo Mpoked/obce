@@ -1,6 +1,5 @@
 <?= $this->extend("layout/template") ?>
 <?= $this->section("content") ?>
-<h1>fungujeme?</h1>
 <div class="row pt-3">
     <div class="col-6">
         <?php
